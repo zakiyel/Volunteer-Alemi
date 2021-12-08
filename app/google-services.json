@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "531674847224",
+    "firebase_url": "https://volunteeralemi.firebaseio.com",
+    "project_id": "volunteeralemi",
+    "storage_bucket": "volunteeralemi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531674847224:android:3080ee59c2f3cbe5",
+        "android_client_info": {
+          "package_name": "kz.zhastar.volunteeralemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531674847224-0b8bkamkqg4b4khu7lduei7bd2sitjid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkG790Y9-nzZ2E7IQJkvFbZ6g1GmLgBDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531674847224-0b8bkamkqg4b4khu7lduei7bd2sitjid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
